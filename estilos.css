@@ -1,0 +1,36 @@
+body {
+	
+	background: #7E7576;
+}
+
+.contenedor{
+	margin: 0 auto;
+	width: 85%;
+	background: white;	
+}
+
+.cabecera{
+	border: 10px solid # #FBF7F7
+}
+.contenido{
+	display: flex;
+	flex-direction: row;
+	height: 500px;
+	
+}
+
+.articulo{
+	width: 33%;
+	padding: 15px;
+}
+
+p{
+	text-align: justify;
+	font-size: 16px;
+}
+
+footer{
+	text-align: center;
+	background: black;
+	height: 50px;
+}
